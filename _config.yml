@@ -1,19 +1,10 @@
-
-name: Miran Oh | PhD Student in Linguistics at USC
 title: Miran Oh
 email: miranoh@usc.edu
-description: > # this means to ignore newlines until "baseurl:"
-  I'm Miran Oh, a second year PhD student in Linguistics at University of Southern California
-baseurl: "" # the subpath of your site, e.g. /blog
-
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-github_username:  miranoh
+description: PhD Student in Linguistics
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-  
-permalink: /blog/:year/:month/:day/:title
+# theme: minima #jekyll-theme-modernist
