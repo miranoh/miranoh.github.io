@@ -15,3 +15,5 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  
+  permalink: /blog/:year/:month/:day/:title
