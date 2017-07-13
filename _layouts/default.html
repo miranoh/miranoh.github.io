@@ -1,29 +1,49 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/CV">CV</a></li>
-	        		<li><a href="/Contact">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:miranoh@usc.edu">email</a></li>
-	        		<li><a href="https://github.com/miranoh">github.com/miranoh</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<meta charset="utf-8">
+    		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+    		<title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/CV">CV</a></li>
+			<li><a href="/Contact">Blog</a></li>
+		</ul>
+		</nav>
+		<div class="container">
+
+		{{ content }}
+			<section>
+
+      			{{ content }}
+
+      			</section>
+		</div><!-- /.container -->
+		<footer>
+		<ul>
+			<li><a href="mailto:miranoh@usc.edu">email</a></li>
+			<li><a href="https://github.com/miranoh">github.com/miranoh</a></li>
+			</ul>
+			<p>Hosted on GitHub Pages </p>
+		</footer>
+		{% if site.google_analytics %}
+      			<script type="text/javascript">
+        			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        			ga('create', '{{ site.google_analytics }}', 'auto');
+        			ga('send', 'pageview');
+      			</script>
+    		{% endif %}
+	</body>
+</html>
