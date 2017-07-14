@@ -3,6 +3,8 @@ layout: default
 title: Miran Oh | PhD Student in Linguistics at USC
 ---
 
+![](https://miranoh.github.com/blob/master/miran.jpeg)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
