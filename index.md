@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Miran Oh | PhD Student in Linguistics at USC
+title: Miran Oh | Home
 ---
 
-![](https://miranoh.github.com/blob/master/miran.jpeg)
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-![](https://miranoh.github.com/miran.jpeg)
 
 [Link to another page](another-page).
 
@@ -28,10 +24,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 *   This is an unordered list following a header.
 
 
-|     1        | 	2          | 3 |
+|2017          | 	`miran` oh       | x |
 |:-------------|:------------------|:------|
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 2016           | miranoh~~ _journal of xx_      | y  |
+| 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
 
 ### horizontal rule
 
