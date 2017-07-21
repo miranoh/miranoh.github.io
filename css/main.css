@@ -1,0 +1,214 @@
+html {
+	background:#6C7989;
+	background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
+	background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+}
+
+body {
+	padding: 40px 0;
+	margin: auto;
+	width: 70%;
+	font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #555;
+  	font-weight: 300;
+	background:#6C7989;
+  	background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
+  	background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
+  	background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
+	background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+
+}
+
+.image-circle {
+	border-radius: 50%;
+	padding: 0 0 20px;
+    display: block;
+    margin: auto;
+    width: 30%;
+  	line-height: 3;
+}
+
+ul.menu {
+	padding: 30px 0 10px 0;
+}
+
+header h1 {
+	margin: auto;
+	text-align: center;
+	padding: 0;
+	font-family: 'Tauri';
+	font-weight: bold;
+	font-size: 2.3em;
+	line-height: 1.5;
+	color: #a8b6bf;
+}
+
+header p {
+	margin: auto;
+	text-align: center;
+	color: #a8b6bf;
+	width: 300px;
+	font-size: 1.1em;
+	line-height: 1.2;
+	text-shadow: rgba(51, 51, 51, 1.9) 0 1px 0;
+}
+
+
+body.home a.home,
+body.cv a.cv,
+body.publications a.publications,
+body.contact a.contact {
+	color: #dbc3d0;
+}
+
+header ul {
+  font-family:'Helvetica','Arial','Sans-Serif';
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  padding: 2px;
+  list-style-type: none;
+  z-index: 1;
+}
+
+header nav ul li a {
+  color: #a8b6bf;
+  font-size: 1.7em;
+  display: inline;
+  text-align: center;
+  padding: 6px;
+  height: 40px;
+  text-decoration: none;
+  border-radius: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+header nav li a:hover {
+  background: #a8b6bf;
+  color: #fff;
+}
+
+header nav li a:active {
+	background-color: #dbc3d0;
+	color:white;
+}
+	
+.mainbox {
+	max-width:700px;
+	margin: auto;
+	padding: 10px;
+	background: #E8E8E8;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+  	-o-border-radius: 8px;
+  	-ms-border-radius: 8px;
+  	-khtml-border-radius: 8px;
+  	border-radius: 8px;
+  	-moz-box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+  	-webkit-box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+  	-o-box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+  	box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
+
+header, section, footer {
+	display: block;
+}
+
+section {
+  padding: 5px 20px;
+  font-size: 15px;
+  -moz-border-radius: 0 0 8px 8px;
+  -webkit-border-radius: 0 0 8px 8px;
+  -o-border-radius: 0 0 8px 8px;
+  -ms-border-radius: 0 0 8px 8px;
+  -khtml-border-radius: 0 0 8px 8px;
+  border-radius: 0 0 8px 8px;
+  position: relative;
+}
+  
+p {
+	padding: 0;
+	font-size: 14px;
+	line-height: 1.4em;
+	text-align: justify;
+}
+
+strong {
+	color: #222;
+	font-weight: 700;
+}
+
+blockquote {
+  margin: 0;
+  padding: 15px 20px 1px 20px;
+  font-style: italic;
+  background: #ccc;
+  background: rgba(0, 0, 0, 0.06);
+  color: #222;
+}
+
+.color-test {
+	background: white;
+	border: none;
+	height: 50px;
+}
+
+hr {border: 2px
+}
+
+footer ul{
+	margin: 5px;
+    font-size: 1.3em;
+    color: #a8b6bf;
+    font-family:'Helvetica','Arial','Sans-Serif';
+    font-weight: bold;
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+
+footer ul li{
+	margin-left: 30px;
+}
+
+a {
+	color: #a8b6bf;
+    text-decoration: none;
+	
+}
+
+footer ul li:hover, footer ul li a:hover {
+	color: #dbc3d0;
+}
+
+
+li {
+	display: inline;
+}
+
+h3 {
+	color: #52658F;
+}
+
+h2 {
+    border: 2px dashed lightgray;
+    font-weight: 10px;
+    border-radius: 8px;
+    padding: 10px
+}
+
+h2:hover {
+	background-color: #dbc3d0;
+}
+
+#contactinfo: {
+	background-color: #dbc3d0;
+	border: solid
+}

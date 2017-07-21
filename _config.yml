@@ -3,8 +3,5 @@ email: miranoh@usc.edu
 description: Miran Oh | PhD Student in Linguistics
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-modernist
-
-# Build settings
-markdown: kramdown
-# theme: minima #jekyll-theme-modernist
+theme:
+github_username:  miranoh

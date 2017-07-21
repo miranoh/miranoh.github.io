@@ -1,65 +1,64 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <title>Miran Oh | PhD student in Linguistics</title>
+
+    <link rel="stylesheet" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}" type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <script src="{{ '/css/scale.fix.js' | relative_url }}"></script>
 
     <!--fonts from googlefonts: Kdam Thmor, Yantramanav (Sans-Serif), Zilla Slab (Serif)-->
     <link href='https://fonts.googleapis.com/css?family=Kdam Thmor' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Tauri' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Yantramanav' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Zilla Slab' rel='stylesheet'>
 
-    <link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
     <!--icons: use it as <i class="fa fa-bars"></i>, "glyphicon iconname", or <i class="material-icons">cloud</i> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   </head>
   <body>
     <header>
-      <br><img class="image-circle" src = "http://miranoh.github.io/miran.jpeg" alt = "miran.jpeg"><br>
-      <h1>Miran Oh</h1>
-      <p>Ph.D Student in Linguistics<br><em>University of Southern California</em></p>
-
+      <img class="image-circle" src = "http://miranoh.github.io/miran.jpeg" alt = "miran.jpeg" width = "350">
+      <h1 id="name">Miran Oh</h1>
+      <p id="position">Ph.D Student in Linguistics<br><em>University of Southern California</em></p>
       <nav>
-         <ul><br>
-             <li><a href="/">Home</a></li>
-             <li><a href="/about">About</a></li>
-             <li><a href="/cv">CV</a></li>
-             <li><a href="/contact">Contact</a></li>
-         </ul><br>
-       </nav>
-
+	       <ul class="menu">
+		         <li><a href="/" class="home">Home</a></li>
+		         <li><a href="/cv" class="cv">CV</a></li>
+		         <li><a href="/publications" class="publications">Publications</a></li>
+		         <li><a href="/contact" class="contact">Contact</a></li>
+	       </ul>
+      </nav>
     </header>
-    <div class="container">
+    <div class ="mainbox">
       <section>
-
       {{ content }}
-
       </section>
     </div>
-    <footer>
-      <ul>
-        <li><i class="fa fa-envelope" style="font-size:24px;"></i><i class="material-icons">email</i> <a href="mailto:miranoh@usc.edu">email</a></li>
-        <li><i class="fa fa-home" style="font-size:24px;"></i><i class="material-icons">home</i> <a href="https://miranoh.github.io">miranoh.github.io</a></li>
-      </ul>
-    </footer>
+  <footer>
+	 <ul>
+       <li><i class="fa fa-envelope" style="font-size:14px;"></i><a href="mailto:miranoh@usc.edu"> e-mail me   </a></li>
+       <li><i class="fa fa-home" style="font-size:14px;""></i><a href="https://miranoh.github.io"> miranoh.github.io</a></li>
+     </ul>
+        <i class="fa fa-cloud" style="font-size:48px;color:#545454;"></i>
+        <i class="fa fa-cloud" style="font-size:48px;color:#52658F;"></i>
+        <i class="fa fa-cloud" style="font-size:48px;color:#B2D2E1;"></i>
+      </span>
+   </footer>
 
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
+   {% if site.google_analytics %}
+    <script type="text/javascript">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', '{{ site.google_analytics }}', 'auto');
+       ga('send', 'pageview');
+     </script>
     {% endif %}
-  </body>
+ </body>
 </html>

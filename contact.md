@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Miran Oh | Contact
-permalink: /contact/
+permalink:
 ---
+<body class="contact"></body>
 
 ### Contact me
 
-<br>
-<dl>
-<dt>Miran Oh</dt>
-<dd>3607 Watt Way<br>Grace Ford Salvatori 301<br>Los Angeles, CA 90007</dd>
-<br>
-<dt><i class="fa fa-envelope" style="font-size:14px;"></i></dt>
-<dd>miranoh@usc.edu</dd>
-</dl>
+<span id="contactinfo">Miran Oh<br>_3607 Watt Way<br>Grace Ford Salvatori 301<br>Los Angeles, CA 90007_</span>
+
+<i class="fa fa-envelope" style="font-size:14px;"></i>  miranoh[at]usc[dot]edu
+
 
 [back](./)
