@@ -4,11 +4,11 @@ title: Miran Oh | CV
 ---
 <body class="cv"></body>
 
-## CV
+### Curriculum Vitae
 
 [Download CV](http://miranoh.github.io/uploads/CV_miranoh.pdf)
 
-### Education
+#### Education
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -16,14 +16,14 @@ title: Miran Oh | CV
 
 * * *
 
-### Publication
+#### Publication
 
 |2017          | 	`miran` oh       | x |
 |:-------------|:------------------|:------|
 | 2016           | miranoh~~ _journal of xx_      | y  |
 | 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
 
-### horizontal rule
+#### horizontal rule
 
 * * *
 

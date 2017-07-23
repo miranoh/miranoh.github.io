@@ -147,10 +147,9 @@ strong {
 
 blockquote {
   margin: 0;
-  padding: 15px 20px 1px 20px;
-  font-style: italic;
-  background: #ccc;
-  background: rgba(0, 0, 0, 0.06);
+  padding: 5px 20px 1px 20px;
+  background: #c2d4d8;
+  border-radius: 5px;
   color: #222;
 }
 
@@ -179,7 +178,7 @@ footer ul li{
 }
 
 a {
-	color: #a8b6bf;
+	color: #52658F;
     text-decoration: none;
 	
 }
@@ -195,6 +194,10 @@ li {
 
 h3 {
 	color: #52658F;
+}
+
+h4 {
+	color: #6D7993;
 }
 
 h2 {

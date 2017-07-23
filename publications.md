@@ -8,6 +8,7 @@ permalink:
 ### Publications
 
 #### REFEREED PUBLICATIONS 
+##### Journal Articles
 
 *	Oh, Miran. (2015). Lonely negative words in English and Korean, English Language and Linguistics, Journal of the ELSOK (English Linguistics Society of Korea), 21(2), 83-
 100.
@@ -18,10 +19,11 @@ writings, Korean Journal of Applied Linguistics, 30(3), 179-196.
 *	Oh, Miran. (2014). Adaptation of English liquid loans in Korean: An OT analysis
 on the distinct patterns of /r/ and /l/, Language Research, 50(2), 387-410.
 
-#### CONFERENCE PROCEEDINGS
-##### The influence of power relations on English L1 and L2 speakers’ oral requests.
+##### Conference Proceedings
+*	The influence of power relations on English L1 and L2 speakers’ oral requests.
+
 ###### In Proceedings of Speech Prosody 2016, Boston, MA (pp. 965-969).
-###### Oh, Miran (2016).
+*	Oh, Miran (2016).
 
 #### CONFERENCE PRESENTATIONS
 *	The compensatory effect of onset on pitch and vowel duration. The 25th Manchester Phonology Meeting (25mfm), Manchester, UK.
