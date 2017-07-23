@@ -6,7 +6,7 @@ title: Miran Oh | CV
 
 ## CV
 
-Download CV
+[Download CV](http://miranoh.github.io/uploads/CV_miranoh.pdf)
 
 ### Education
 
