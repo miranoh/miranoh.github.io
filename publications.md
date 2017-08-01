@@ -3,7 +3,7 @@ layout: default
 title: Miran Oh | Publications
 permalink:
 ---
-<body class="about"></body>
+<body class="publications"></body>
 
 ### Publications
 
@@ -29,10 +29,17 @@ on the distinct patterns of /r/ and /l/, Language Research, 50(2), 387-410.
 *	The compensatory effect of onset on pitch and vowel duration. The 25th Manchester Phonology Meeting (25mfm), Manchester, UK.
 
 
-|2017          | 	`miran` oh       | x |
-|:-------------|:------------------|:------|
-| 2016           | miranoh~~ _journal of xx_      | y  |
-| 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
+| 2017               	| 	`miran` oh                              | x     |
+|:-------------------	|:-----------------------------------------|:------|
+| 2016               	| miranoh~~ _journal of xx_  hi            | y     |
+| 2016               	| miranoh~~ _journal of xx_ `zoute` `oreo` | z     |
+
+|            	| 	     	| 									|   	|   	|
+|--------------	|---------	|-------------------------------	|---	|---	|
+| 2017         	| mrianoh 	| eiwejwekwjewkjekwejkejkwejwej 	|   	|   	|
+| 2016         	| kdsf    	| fdfke                         	|   	|   	|
+|              	|         	|                               	|   	|   	|
+|              	|         	|                               	|   	|   	|
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
