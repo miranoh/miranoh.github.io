@@ -5,62 +5,59 @@ permalink:
 ---
 <body class="publications"></body>
 
-### Publications
+## Publications
 
-#### REFEREED PUBLICATIONS 
-##### Journal Articles
+### REFEREED PUBLICATIONS 
+#### Journal Articles
 
-*	Oh, Miran. (2015). Lonely negative words in English and Korean, English Language and Linguistics, Journal of the ELSOK (English Linguistics Society of Korea), 21(2), 83-
-100.
+<span class="year">**2015**</span>
+<span style="width: 85%;">**Lonely negative words in English and Korean** [[PDF](http://miranoh.github.io/uploads/MO_lonelynegatives.pdf)]  
+Miran Oh  
+_English Language and Linguistics, Journal of the English Linguistics Society of Korea (ELSOK)_ </span>
 
-*	Oh, Miran. (2014). A corpus study of overpassivization in Korean EFL learners’
-writings, Korean Journal of Applied Linguistics, 30(3), 179-196.
+<span class="year">**2014**</span>
+<span style="width: 85%;">**A corpus study of overpassivization in Korean EFL learners’ writings** [[PDF](http://miranoh.github.io/uploads/MO_overpassivization.pdf)]  
+Miran Oh  
+_Korean Journal of Applied Linguistics_</span>
 
-*	Oh, Miran. (2014). Adaptation of English liquid loans in Korean: An OT analysis
-on the distinct patterns of /r/ and /l/, Language Research, 50(2), 387-410.
+<span class="year">**2014**</span>
+<span style="width: 85%;">**Adaptation of English liquid loans in Korean: An OT analysis on the distinct patterns of /r/ and /l/** [[PDF](http://miranoh.github.io/uploads/MO_loanwordphon.pdf)]      
+Miran Oh  
+_Language Research_</span>
 
-##### Conference Proceedings
-*	The influence of power relations on English L1 and L2 speakers’ oral requests.
+#### Conference Proceedings
 
-###### In Proceedings of Speech Prosody 2016, Boston, MA (pp. 965-969).
-*	Oh, Miran (2016).
+<span class="year">**2016**</span>
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
+Miran Oh  
+_Proceedings of Speech Prosody 2016_</span><br><br>  
+  
+### CONFERENCE PRESENTATIONS
 
-#### CONFERENCE PRESENTATIONS
-*	The compensatory effect of onset on pitch and vowel duration. The 25th Manchester Phonology Meeting (25mfm), Manchester, UK.
+<span class="year">**2017**</span>
+<span style="width: 85%;">**Onset effects on a tautosyllabic vowel: Implications for weight.** [[Poster](http://miranoh.github.io/uploads/MO_onseteffects_Poster.pdf)]  
+Miran Oh  
+_The 25th Manchester Phonology Meeting (25mfm)_</span>
 
+<span class="year">**2016**</span>
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
+Miran Oh  
+_Proceedings of Speech Prosody 2016_</span>
 
-| 2017               	| 	`miran` oh                              | x     |
-|:-------------------	|:-----------------------------------------|:------|
-| 2016               	| miranoh~~ _journal of xx_  hi            | y     |
-| 2016               	| miranoh~~ _journal of xx_ `zoute` `oreo` | z     |
+<span class="year">**2015**</span>
+<span style="width: 85%;">**Effects of onset on pitch and vowel duration**  
+Miran Oh  
+_The 9th Graduate Seminar of English Languages and Literature Association of Korea (ELLAK)_</span>
 
-|            	| 	     	| 									|   	|   	|
-|--------------	|---------	|-------------------------------	|---	|---	|
-| 2017         	| mrianoh 	| eiwejwekwjewkjekwejkejkwejwej 	|   	|   	|
-| 2016         	| kdsf    	| fdfke                         	|   	|   	|
-|              	|         	|                               	|   	|   	|
-|              	|         	|                               	|   	|   	|
+<span class="year_long">**2014**</span>
+<span style="width: 85%;">**Sociophonetic variations of English ”request” by Korean EFL learners**  
+Miran Oh  
+_The 9th International Conference of English Language and Literature Association of Korea (ELLAK)_</span>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-* * *
-
-### [](#h4)Using HTML in markdown
-
-<dl>
-<dt>Name</dt>
-<dd>Miran Oh</dd>
-<dt>Born</dt>
-<dd>1990</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<span class="year_long">**2014**</span>
+<span style="width: 85%;">**Perception of English liquid loans in Korean: An OT analysis on the distinct patterns of /r/ & /l/**  
+Miran Oh  
+_The 9th International Workshop on Theoretical East Asian Linguistics_ (did not attend)</span>
 
 
 [back](./)

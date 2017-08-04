@@ -141,7 +141,7 @@ p {
 }
 
 strong {
-	color: #222;
+	color: #555555;
 	font-weight: 700;
 }
 
@@ -192,6 +192,10 @@ li {
 	display: inline;
 }
 
+h2 {
+	color: #6C7989;
+}
+
 h3 {
 	color: #52658F;
 }
@@ -200,18 +204,38 @@ h4 {
 	color: #6D7993;
 }
 
-h2 {
+h5 {
+	color: #6D7993;
+	font-size: 15px;
+}
+
+h {
     border: 2px dashed lightgray;
     font-weight: 10px;
     border-radius: 8px;
     padding: 10px
 }
 
-h2:hover {
+h:hover {
 	background-color: #dbc3d0;
 }
 
 #contactinfo: {
 	background-color: #dbc3d0;
-	border: solid
+	border: 2px dashed lightgray;
+	border: solid;
+}
+
+.year {
+	float: left; 
+	padding: 0 15px 0 0; 
+	width: 15%; 
+	height: 60px;
+}
+
+.year_long {
+	float: left; 
+	padding: 0 15px 0 0; 
+	width: 15%; 
+	height: 80px;
 }

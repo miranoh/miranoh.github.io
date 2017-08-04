@@ -4,7 +4,7 @@ title: Miran Oh | CV
 ---
 <body class="cv"></body>
 
-### Curriculum Vitae
+## Curriculum Vitae
 
 [Download CV](http://miranoh.github.io/uploads/CV_miranoh.pdf)
 
@@ -16,19 +16,19 @@ title: Miran Oh | CV
 
 * * *
 
-#### Publication
+### Publication
 
 |2017          | 	`miran` oh       | x |
 |:-------------|:------------------|:------|
 | 2016           | miranoh~~ _journal of xx_      | y  |
 | 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
 
-#### horizontal rule
+### horizontal rule
 
 * * *
 
 
-## About me
+# About me
 
 _yay_
 
@@ -36,25 +36,25 @@ _yay_
 Hi, I'm Miran Oh, a ~~
 ```
 
-## Box with round border
+# Box with round border
 
 
-### [](#h3)Header
+## [](#h3)Header
 
-### [](#h3)To another page
+## [](#h3)To another page
 
 [Link to another page](another-page).
 [Link to About](about).
 
-### [](#h4)Smaller Header
+## [](#h4)Smaller Header
 
-### [](#h4)List in the main box.
+## [](#h4)List in the main box.
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-### [](#h4)Publications
+## [](#h4)Publications
 
 |2017          | 	`miran` oh       | x |
 |:-------------|:------------------|:------|
@@ -65,7 +65,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 * * *
 
-### [](#h4)Using HTML in markdown
+## [](#h4)Using HTML in markdown
 
 <dl>
 <dt>Name</dt>

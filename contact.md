@@ -5,7 +5,7 @@ permalink:
 ---
 <body class="contact"></body>
 
-### Contact me
+## Contact me
 
 <span id="contactinfo">Miran Oh<br>_3607 Watt Way<br>Grace Ford Salvatori 301<br>Los Angeles, CA 90007_</span>
 
