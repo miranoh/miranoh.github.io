@@ -8,78 +8,56 @@ title: Miran Oh | CV
 
 [Download CV](http://miranoh.github.io/uploads/CV_miranoh.pdf)
 
-#### Education
+### EDUCATION
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<span class="cv-year">**2016–present**</span>
+<span style="width: 85%;">**Ph.D. in Linguistics**, _University of Southern California_, California, USA</span>  
 
-* * *
+<span class="cv-year">**2015–2016**</span>
+<span style="width: 85%;">**Ph.D. in Linguistics**, _Stony Brook University_, New York, USA</span>  
 
-### Publication
+<span class="year_long">**2013–2015**</span>
+<span style="width: 85%;">**M.A. in English Language and Literature (Linguistics)**, _Ewha Womans University_, Seoul, Korea  
+Thesis: _A Phonetic Study of Consonantal and Positional Effects on Syllable Weight_ (earned the Graduate School Award for Dissertation with Highest Honors)  
+Advisor: Eunjin Oh; Committee: Eunjin Oh, YoungEun Yoon, Seung-Ah Lee</span>  
 
-|2017          | 	`miran` oh       | x |
-|:-------------|:------------------|:------|
-| 2016           | miranoh~~ _journal of xx_      | y  |
-| 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
+<span class="cv-year">**2009–2013**</span>
+<span style="width: 85%;">**B.A. in English Language and Literature**, _Ewha Womans University_, Seoul, Korea</span>  
 
-### horizontal rule
-
-* * *
-
-
-# About me
-
-_yay_
-
-```
-Hi, I'm Miran Oh, a ~~
-```
-
-# Box with round border
+<span class="cv-year">**2011–2012**</span>
+<span style="width: 85%;">**Exchange program**, _University of California at Davis_, California, USA</span>  
 
 
-## [](#h3)Header
+#### Conference Proceedings
 
-## [](#h3)To another page
+<span class="year">**2016**</span>
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
+Miran Oh  
+_Proceedings of Speech Prosody 2016_</span><br><br>  
+  
+### CONFERENCE PRESENTATIONS
 
-[Link to another page](another-page).
-[Link to About](about).
+<span class="year">**2017**</span>
+<span style="width: 85%;">**Onset effects on a tautosyllabic vowel: Implications for weight** [[Poster](http://miranoh.github.io/uploads/MO_onseteffects_Poster.pdf)]  
+Miran Oh  
+_The 25th Manchester Phonology Meeting (25mfm)_</span>
 
-## [](#h4)Smaller Header
+<span class="year">**2016**</span>
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
+Miran Oh  
+_Proceedings of Speech Prosody 2016_</span>
 
-## [](#h4)List in the main box.
+<span class="year">**2015**</span>
+<span style="width: 85%;">**Effects of onset on pitch and vowel duration**  
+Miran Oh  
+_The 9th Graduate Seminar of English Languages and Literature Association of Korea (ELLAK)_</span>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<span class="year_long">**2014**</span>
+<span style="width: 85%;">**Sociophonetic variations of English ”request” by Korean EFL learners**  
+Miran Oh  
+_The 9th International Conference of English Language and Literature Association of Korea (ELLAK)_</span>
 
-## [](#h4)Publications
-
-|2017          | 	`miran` oh       | x |
-|:-------------|:------------------|:------|
-| 2016           | miranoh~~ _journal of xx_      | y  |
-| 2016           | miranoh~~ _journal of xx_ `zoute` `oreo` | z  |
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-* * *
-
-## [](#h4)Using HTML in markdown
-
-<dl>
-<dt>Name</dt>
-<dd>Miran Oh</dd>
-<dt>Born</dt>
-<dd>1990</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-[back](./)
+<span class="year_long">**2014**</span>
+<span style="width: 85%;">**Perception of English liquid loans in Korean: An OT analysis on the distinct patterns of /r/ & /l/**  
+Miran Oh  
+_The 9th International Workshop on Theoretical East Asian Linguistics_ (did not attend)</span>

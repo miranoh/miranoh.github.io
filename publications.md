@@ -11,7 +11,7 @@ permalink:
 #### Journal Articles
 
 <span class="year">**2015**</span>
-<span style="width: 85%;">**Lonely negative words in English and Korean** [[PDF](http://miranoh.github.io/uploads/MO_lonelynegatives.pdf)]  
+<span style="width: 85%;">**Lonely negative words in English and Korean** [[PDF](http://miranoh.github.io/uploads/MO_lonelynegatives.pdf)]   
 Miran Oh  
 _English Language and Linguistics, Journal of the English Linguistics Society of Korea (ELSOK)_ </span>
 
@@ -35,7 +35,7 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 ### CONFERENCE PRESENTATIONS
 
 <span class="year">**2017**</span>
-<span style="width: 85%;">**Onset effects on a tautosyllabic vowel: Implications for weight.** [[Poster](http://miranoh.github.io/uploads/MO_onseteffects_Poster.pdf)]  
+<span style="width: 85%;">**Onset effects on a tautosyllabic vowel: Implications for weight** [[Poster](http://miranoh.github.io/uploads/MO_onseteffects_Poster.pdf)]  
 Miran Oh  
 _The 25th Manchester Phonology Meeting (25mfm)_</span>
 

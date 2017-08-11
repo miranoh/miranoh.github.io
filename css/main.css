@@ -177,10 +177,20 @@ footer ul li{
 	margin-left: 30px;
 }
 
+footer a {
+	color: #a8b6bf;
+	margin-right: 5px;
+}
+
 a {
 	color: #52658F;
     text-decoration: none;
 	
+}
+
+span a {
+	color: #FF5240;
+	font-weight: bold;
 }
 
 footer ul li:hover, footer ul li a:hover {
@@ -193,7 +203,8 @@ li {
 }
 
 h2 {
-	color: #6C7989;
+	color: #333A56;
+	font-size: 1.5em;
 }
 
 h3 {
@@ -238,4 +249,11 @@ h:hover {
 	padding: 0 15px 0 0; 
 	width: 15%; 
 	height: 80px;
+}
+
+.cv-year {
+	float: left; 
+	padding: 0 15px 0 0; 
+	width: 15%; 
+	height: 30px;
 }
