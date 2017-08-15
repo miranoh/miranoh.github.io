@@ -1,11 +1,11 @@
 html {
-	background:#6C7989;
-	background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
-	background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+	background:#B2D2E1;B2D2E1 a8b6bf;
+	background: #B2D2E1 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #B2D2E1), color-stop(100%, #434b55)) fixed;
+	background: #B2D2E1 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 -o-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 linear-gradient(#B2D2E1, #434b55) fixed;
 }
 
 body {
@@ -15,13 +15,13 @@ body {
 	font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #555;
   	font-weight: 300;
-	background:#6C7989;
-  	background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
-  	background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
-  	background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
-	background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+	background:#B2D2E1;
+  	background: #B2D2E1 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
+  	background: #B2D2E1 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
+  	background: #B2D2E1 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 -o-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #B2D2E1 linear-gradient(#B2D2E1, #434b55) fixed;
 
 }
 
@@ -46,13 +46,14 @@ header h1 {
 	font-weight: bold;
 	font-size: 2.3em;
 	line-height: 1.5;
-	color: #a8b6bf;
+	color: #6C7989;
+	text-shadow: rgba(51, 51, 51, 1.9) 0 1px 0;
 }
 
 header p {
 	margin: auto;
 	text-align: center;
-	color: #a8b6bf;
+	color: #6C7989; 
 	width: 300px;
 	font-size: 1.1em;
 	line-height: 1.2;
@@ -78,7 +79,7 @@ header ul {
 }
 
 header nav ul li a {
-  color: #a8b6bf;
+  color: #E8E8E8;
   font-size: 1.7em;
   display: inline;
   text-align: center;
@@ -140,11 +141,6 @@ p {
 	text-align: justify;
 }
 
-strong {
-	color: #555555;
-	font-weight: 700;
-}
-
 blockquote {
   margin: 0;
   padding: 5px 20px 1px 20px;
@@ -165,7 +161,7 @@ hr {border: 2px
 footer ul{
 	margin: 5px;
     font-size: 1.3em;
-    color: #a8b6bf;
+    color: #E8E8E8;
     font-family:'Helvetica','Arial','Sans-Serif';
     font-weight: bold;
     list-style: none;
@@ -178,7 +174,7 @@ footer ul li{
 }
 
 footer a {
-	color: #a8b6bf;
+	color: #E8E8E8;
 	margin-right: 5px;
 }
 
@@ -213,11 +209,12 @@ h3 {
 
 h4 {
 	color: #6D7993;
+	font-size: 1.1em;
 }
 
 h5 {
-	color: #6D7993;
-	font-size: 15px;
+	color: #434b55;
+	font-size: 0.9em;
 }
 
 h {
@@ -237,6 +234,11 @@ h:hover {
 	border: solid;
 }
 
+strong {
+	color: #555555;
+	font-weight: 700;
+}
+
 .year {
 	float: left; 
 	padding: 0 15px 0 0; 
@@ -249,6 +251,15 @@ h:hover {
 	padding: 0 15px 0 0; 
 	width: 15%; 
 	height: 80px;
+	text-align: left;
+}
+
+.year_superlong {
+	float: left; 
+	padding: 0 15px 0 0; 
+	width: 15%; 
+	height: 100px;
+	text-align: left;
 }
 
 .cv-year {
@@ -256,4 +267,14 @@ h:hover {
 	padding: 0 15px 0 0; 
 	width: 15%; 
 	height: 30px;
+	text-align: left;
+}
+
+#download-cv {
+	border: none;
+	color: #434b55;
+}
+
+#download-cv:hover{
+	border: none;
 }
