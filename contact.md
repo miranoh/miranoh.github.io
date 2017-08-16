@@ -11,5 +11,4 @@ permalink:
 
 <i class="fa fa-envelope" style="font-size:14px;"></i>  miranoh[at]usc[dot]edu
 
-
-[back](./)
+<span style="height: 20px;"></span>

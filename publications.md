@@ -57,8 +57,6 @@ _The 9th International Conference of English Language and Literature Association
 <span class="year_long">**2014**</span>
 <span style="width: 85%;">**Perception of English liquid loans in Korean: An OT analysis on the distinct patterns of /r/ & /l/**  
 Miran Oh  
-_The 9th International Workshop on Theoretical East Asian Linguistics_ (did not attend)</span>
+_The 9th International Workshop on Theoretical East Asian Linguistics_ (did not attend)</span>  
 
-
-[back](./)
 

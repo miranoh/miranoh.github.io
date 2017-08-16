@@ -17,11 +17,8 @@ title: Miran Oh | CV
 <span class="cv-year">**2015 – 2016**</span>
 <span style="width: 85%;">**Ph.D. in Linguistics**, _Stony Brook University_, New York, USA</span>  
 
-<span class="year_superlong">**2013 – 2015**</span>
-<span style="width: 85%;">**M.A. in English Language and Literature (Linguistics)**, _Ewha Womans University_, Seoul, Korea  
--Thesis: _A Phonetic Study of Consonantal and Positional Effects on Syllable Weight_ (earned the Graduate School Award for Dissertation with Highest Honors)  
--Advisor: Eunjin Oh  
--Committee: Eunjin Oh, YoungEun Yoon, Seung-Ah Lee</span>  
+<span class="cv-year">**2013 – 2015**</span>
+<span style="width: 85%;">**M.A. in English Language and Literature (Linguistics)**, _Ewha Womans University_, Seoul, Korea</span>  
 
 <span class="cv-year">**2009 – 2013**</span>
 <span style="width: 85%;">**B.A. in English Language and Literature**, _Ewha Womans University_, Seoul, Korea</span>  
@@ -30,65 +27,25 @@ title: Miran Oh | CV
 <span style="width: 85%;">**Exchange program**, _University of California at Davis_, California, USA</span>  
 <br>
 
-### HONORS AND AWARDS
-
-<span class="cv-year">**Aug 2017 - present**</span>
-<span style="width: 85%;">**Teaching Assistantship**, _Department of Linguistics, University of Southern California_</span>
-
-<span class="cv-year">**May 2017 - Aug 2017**</span>
-<span style="width: 85%;">**Summer Graduate Research Assistantship**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
-
-<span class="cv-year">**2016 - present**</span>
-<span style="width: 85%;">**Dornsife/Graduate School Ph.D. Fellowship in the Social Sciences**, _The Dornsife College of Letters, Arts and Sciences, University of Southern California_</span>
-
-<span class="cv-year">**2015 – 2016**</span>
-<span style="width: 85%;">**Teaching Assistantship**, _Department of Linguistics, Stony Brook University_</span>
-
-<span class="cv-year">**Aug 2015**</span>
-<span style="width: 85%;">**Graduate School Award for Dissertation with Highest Honors**, _Ewha Womans University_</span>
-
-<span class="cv-year">**2014 - 2015**</span>
-<span style="width: 85%;">**Research Assistant Scholarship**, _Ewha Womans University_</span>
-
-<span class="cv-year">**2013 – 2014**</span>
-<span style="width: 85%;">**Student Assistant Scholarship**, _Ewha Womans University_</span>
-
-<span class="cv-year">**2012**</span>
-<span style="width: 85%;">**Honors Scholarship**, _Ewha Womans University_</span>
-
-<span class="cv-year">**2012**</span>
-<span style="width: 85%;">**Dean’s List**, _Ewha Womans University_</span>
-
-<span class="cv-year">**2009 - 2015**</span>
-<span style="width: 85%;">**Scholarship**, _Ewha Womans University_</span>  
-<br>
-
 ### RESEARCH EXPERIENCE
 
-<span class="year_long">**May 2017 - Aug 2017**</span>
-<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _University of Southern California_  
--Collected real-time magnetic resonance data for Speech Production and Articulation kNowledge (SPAN) group projects  
--Developed tools for quantifying vocal tract movements in real-time MRI videos</span>
+<span class="cv-year">**May 2017 - Aug 2017**</span>
+<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _University of Southern California_</span>
 
 <span class="cv-year">**Sep 2014 - Aug 2015**</span>
-<span style="width: 85%;">**Research assistant for Prof. Eunjin Oh**, _Ewha Womans University_  
--Worked on data collection and analyzed data for phonetic research projects</span>  
-<br>
+<span style="width: 85%;">**Research assistant for Prof. Eunjin Oh**, _Ewha Womans University_</span>  
+<br><br>
 
 ### TEACHING EXPERIENCE
 #### Teaching Assistant
-<span class="year">**Fall 2017**</span>
-<span style="width: 85%;">Language and Society (LING 115), Instructor: Prof. Andrew Simpson, _University of Southern California_  
--Led weekly lab sessions</span>
+<span class="cv-year">**Fall 2017**</span>
+<span style="width: 85%;">Language and Society (LING 115), Instructor: Prof. Andrew Simpson, _University of Southern California_</span>
 
-<span class="year">**Spring 2016**</span>
-<span style="width: 85%;">Phonology (LIN 301), Instructor: Prof. Michael Becker, _Stony Brook Univerity_  
--Substitute teacher  
--Led weekly lab sessions going over weekly assignments</span>
+<span class="cv-year">**Spring 2016**</span>
+<span style="width: 85%;">Phonology (LIN 301), Instructor: Prof. Michael Becker, _Stony Brook Univerity_</span>
 
-<span class="year">**Fall 2015**</span>
-<span style="width: 85%;">Phonetics (LIN 201), Instructor: Prof. Mary Hoffman, _Stony Brook University_  
--Led weekly lab sessions with lesson plans including exercises and further discussion in coordination with the materials covered in the lecture</span>
+<span class="cv-year">**Fall 2015**</span>
+<span style="width: 85%;">Phonetics (LIN 201), Instructor: Prof. Mary Hoffman, _Stony Brook University_</span>
 
 #### Student Assistant
 <span class="cv-year">**2013 – 2014**</span>
@@ -121,4 +78,38 @@ title: Miran Oh | CV
 <span style="width: 85%;">An interpreter at 2013 Dasan Conference on Photonic Nanostructure-Based Bio- Detection Technologies, _Seoul, Korea_</span>
 
 <span class="cv-year">**Aug 2013**</span>
-<span style="width: 85%;">An interpreter at the 35th World Federation of Master Tailors, _Seoul, Korea_</span>
+<span style="width: 85%;">An interpreter at the 35th World Federation of Master Tailors, _Seoul, Korea_</span>  
+<br>
+
+### HONORS AND AWARDS
+
+<span class="cv-year">**Aug 2017 - present**</span>
+<span style="width: 85%;">Teaching Assistantship, _Department of Linguistics, University of Southern California_</span>
+
+<span class="cv-year">**May 2017 - Aug 2017**</span>
+<span style="width: 85%;">Summer Graduate Research Assistantship, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
+
+<span class="cv-year">**2016 - present**</span>
+<span style="width: 85%;">Dornsife/Graduate School Ph.D. Fellowship in the Social Sciences, _The Dornsife College of Letters, Arts and Sciences, University of Southern California_</span>
+
+<span class="cv-year">**2015 – 2016**</span>
+<span style="width: 85%;">Teaching Assistantship, _Department of Linguistics, Stony Brook University_</span>
+
+<span class="cv-year">**Aug 2015**</span>
+<span style="width: 85%;">Graduate School Award for Dissertation with Highest Honors, _Ewha Womans University_</span>
+
+<span class="cv-year">**2014 - 2015**</span>
+<span style="width: 85%;">Research Assistant Scholarship, _Ewha Womans University_</span>
+
+<span class="cv-year">**2013 – 2014**</span>
+<span style="width: 85%;">Student Assistant Scholarship, _Ewha Womans University_</span>
+
+<span class="cv-year">**2012**</span>
+<span style="width: 85%;">Honors Scholarship, _Ewha Womans University_</span>
+
+<span class="cv-year">**2012**</span>
+<span style="width: 85%;">Dean’s List, _Ewha Womans University_</span>
+
+<span class="cv-year">**2009 - 2015**</span>
+<span style="width: 85%;">Scholarship, _Ewha Womans University_</span>  
+<br>
