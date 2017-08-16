@@ -86,7 +86,7 @@ title: Miran Oh | CV
 -Substitute teacher  
 -Led weekly lab sessions going over weekly assignments</span>
 
-<span class="year">**2015 – 2016**</span>
+<span class="year">**Fall 2015**</span>
 <span style="width: 85%;">Phonetics (LIN 201), Instructor: Prof. Mary Hoffman, _Stony Brook University_  
 -Led weekly lab sessions with lesson plans including exercises and further discussion in coordination with the materials covered in the lecture</span>
 
