@@ -265,22 +265,27 @@ strong {
 	text-align: left;
 }
 
-#download-cv a {
+header p a#download-cv {
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
 	color: #434b55;
-	border: 1px outset lightgray;
+	border: 2px outset lightgray;
 	background: #B2D2E1;
-    font-weight: 10px;
-    border-radius: 3px;
-    padding: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    text-shadow: none;
 }
 
-#download-cv a:hover{
-	border: 1px outset lightgray;
+header p a#download-cv:hover {
+	border: 2px outset lightgray;
+	font-weight: 50px;
 }
 
-#download-cv a:active {
-	border: 1px inset lightgray;
+header p a#download-cv:active {
+	border: 2px inset lightgray;
 	background-color: #dbc3d0;
+	font-weight: 50px;
 	color:white;
 }
 	

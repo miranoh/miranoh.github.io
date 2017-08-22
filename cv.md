@@ -5,10 +5,6 @@ title: Miran Oh | CV
 <body class="cv"></body>
 
 ## Curriculum Vitae
-
-<span id="download-cv">[Download CV](http://miranoh.github.io/uploads/CV_miranoh.pdf)</span>  
-<br>
-
 ### EDUCATION
 
 <span class="cv-year">**2016 – present**</span>
@@ -116,4 +112,7 @@ title: Miran Oh | CV
 
 <span class="cv-year">**2009 - 2015**</span>
 <span style="width: 85%;">Scholarship, _Ewha Womans University_</span>  
+<br>
+
+<span id="download-cv">You can download the full version of my CV [here](http://miranoh.github.io/uploads/CV_miranoh.pdf).</span>  
 <br>
