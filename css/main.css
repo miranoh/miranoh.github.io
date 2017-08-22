@@ -153,8 +153,13 @@ blockquote {
 hr {border: 2px
 }
 
+footer {
+	max-width:700px;
+	margin: auto;
+}
+
 footer ul{
-	margin: 5px;
+	margin: 3px;
     font-size: 1.3em;
     color: #E8E8E8;
     font-family:'Helvetica','Arial','Sans-Serif';
