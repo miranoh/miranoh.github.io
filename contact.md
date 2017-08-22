@@ -12,4 +12,6 @@ permalink:
 <i class="fa fa-envelope" style="font-size:14px;"></i>  miranoh[at]usc[dot]edu
 
 [Link to my USC profile](http://dornsife.usc.edu/cf/ling/ling_student_display.cfm?Person_ID=1061961)
+
 <span style="height: 20px;"></span>
+
