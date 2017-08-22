@@ -60,6 +60,10 @@ title: Miran Oh | CV
 <br>
   
 ### SERVICE
+#### Event Coordinator
+<span class="cv-year">**2017 - present**</span>
+<span style="width: 85%;">Graduate Students in Linguistics, _University of Southern California_</span>
+
 #### Student Volunteer
 <span class="cv-year">**Oct 2016**</span>
 <span style="width: 85%;">2016 Annual Meeting on Phonology, _University of Southern California_</span>
