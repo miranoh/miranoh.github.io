@@ -275,7 +275,7 @@ header p a#download-cv {
 	text-align: center;
 	font-weight: bold;
 	color: #434b55;
-	border: 2px outset lightgray;
+	border: 1px outset lightgray;
 	background: #B2D2E1;
     border-radius: 5px;
     padding: 3px;
@@ -283,12 +283,14 @@ header p a#download-cv {
 }
 
 header p a#download-cv:hover {
-	border: 2px outset lightgray;
+	border: 1px outset lightgray;
 	font-weight: 50px;
+	background: #dbc3d0;
+	color: white;
 }
 
 header p a#download-cv:active {
-	border: 2px inset lightgray;
+	border: 1px inset lightgray;
 	background-color: #dbc3d0;
 	font-weight: 50px;
 	color:white;
