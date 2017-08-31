@@ -26,10 +26,10 @@ title: Miran Oh | CV
 ### RESEARCH EXPERIENCE
 
 <span class="cv-year">**May 2017 - Aug 2017**</span>
-<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _University of Southern California_</span>
+<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
 
 <span class="cv-year">**Sep 2014 - Aug 2015**</span>
-<span style="width: 85%;">**Research assistant for Prof. Eunjin Oh**, _Ewha Womans University_</span>  
+<span style="width: 85%;">**Research assistant for Prof. Eunjin Oh**, _Department of English Language and Literature, Ewha Womans University_</span>  
 <br><br>
 
 ### TEACHING EXPERIENCE
