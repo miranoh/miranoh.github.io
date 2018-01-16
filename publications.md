@@ -36,7 +36,7 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 
 <span class="year">**2017**</span>
 <span style="width: 85%;">**Tracking larynx movement in real-time MRI data** [[Abstract](https://doi.org/10.1121/1.5014430)][[Poster](http://miranoh.github.io/uploads/MO_trackinglarynx_Poster.pdf)]  
-Miran Oh, Asterios Toutios, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan
+Miran Oh, Asterios Toutios, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan  
 _174th Meeting of the Acoustical Society of America (ASA)_</span>
 
 
