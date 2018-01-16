@@ -7,7 +7,7 @@ permalink:
 
 ## Publications
 
-### REFEREED PUBLICATIONS 
+### REFEREED PUBLICATIONS
 #### Journal Articles
 
 <span class="year">**2015**</span>
@@ -31,8 +31,14 @@ _Language Research_</span>
 <span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
 Miran Oh  
 _Proceedings of Speech Prosody 2016_</span><br><br>  
-  
+
 ### CONFERENCE PRESENTATIONS
+
+<span class="year">**2017**</span>
+<span style="width: 85%;">**Tracking larynx movement in real-time MRI data** [[Abstract](https://doi.org/10.1121/1.5014430)][[Poster](http://miranoh.github.io/uploads/MO_trackinglarynx_Poster.pdf)]  
+Miran Oh, Asterios Toutios, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan
+_174th Meeting of the Acoustical Society of America (ASA)_</span>
+
 
 <span class="year">**2017**</span>
 <span style="width: 85%;">**Onset effects on a tautosyllabic vowel: Implications for weight** [[Poster](http://miranoh.github.io/uploads/MO_onseteffects_Poster.pdf)]  
@@ -58,5 +64,3 @@ _The 9th International Conference of English Language and Literature Association
 <span style="width: 85%;">**Perception of English liquid loans in Korean: An OT analysis on the distinct patterns of /r/ & /l/**  
 Miran Oh  
 _The 9th International Workshop on Theoretical East Asian Linguistics_ (did not attend)</span>  
-
-
