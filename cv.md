@@ -10,6 +10,9 @@ title: Miran Oh | CV
 <span class="cv-year">**2016 – present**</span>
 <span style="width: 85%;">**Ph.D. in Linguistics**, _University of Southern California_, California, USA</span>  
 
+<span class="cv-year">**2016 – 2017**</span>
+<span style="width: 85%;">**M.A. in Linguistics**, _University of Southern California_, California, USA</span>
+
 <span class="cv-year">**2015 – 2016**</span>
 <span style="width: 85%;">**Ph.D. in Linguistics**, _Stony Brook University_, New York, USA</span>  
 
@@ -25,6 +28,12 @@ title: Miran Oh | CV
 
 ### RESEARCH EXPERIENCE
 
+<span class="cv-year">**May 2018 - Aug 2018**</span>
+<span style="width: 85%;">**Research assistant for Prof. Dani Bryd**, _Department of Linguistics, University of Southern California_</span>
+
+<span class="cv-year">**May 2018 - Aug 2018**</span>
+<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
+
 <span class="cv-year">**May 2017 - Aug 2017**</span>
 <span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
 
@@ -34,6 +43,9 @@ title: Miran Oh | CV
 
 ### TEACHING EXPERIENCE
 #### Teaching Assistant
+<span class="cv-year">**Spring 2018**</span>
+<span style="width: 85%;">Human Language and Technology (LING 285), Instructor: Prof. Mary B. Washburn, _University of Southern California_</span>
+
 <span class="cv-year">**Fall 2017**</span>
 <span style="width: 85%;">Language and Society (LING 115), Instructor: Prof. Andrew Simpson, _University of Southern California_</span>
 
