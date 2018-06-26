@@ -77,7 +77,7 @@ title: Miran Oh | CV
 <span style="width: 85%;">2016 Annual Meeting on Phonology, _University of Southern California_</span>
 
 <span class="cv-year">**May 2016**</span>
-<span style="width: 85%;">Speech Prosody 2016, _Stony Brook Univerity_</span>
+<span style="width: 85%;">Speech Prosody 2016, _Boston Univerity_</span>
 
 <span class="cv-year">**Mar 2016 - Apr 2016**</span>
 <span style="width: 85%;">The 46th Linguistic Symposium on Romance Languages (LSRL) and the 30th Annual Symposium on Arabic Linguistics (ASAL), _Stony Brook University_</span>
