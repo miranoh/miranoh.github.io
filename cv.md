@@ -8,7 +8,7 @@ title: Miran Oh | CV
 ### EDUCATION
 
 <span class="cv-year">**2016 – present**</span>
-<span style="width: 85%;">**Ph.D. in Linguistics**, _University of Southern California_, California, USA</span>  
+<span style="width: 85%;">**Ph.D. in Linguistics**, _University of Southern California_, California, USA</span>
 
 <span class="cv-year">**2016 – 2017**</span>
 <span style="width: 85%;">**M.A. in Linguistics**, _University of Southern California_, California, USA</span>
@@ -29,16 +29,16 @@ title: Miran Oh | CV
 ### RESEARCH EXPERIENCE
 
 <span class="cv-year">**May 2018 - Aug 2018**</span>
-<span style="width: 85%;">**Research assistant for Prof. Dani Bryd**, _Department of Linguistics, University of Southern California_</span>
+<span style="width: 85%;">**Research Assistant for Prof. Dani Bryd**, _Department of Linguistics, University of Southern California_</span>
 
 <span class="cv-year">**May 2018 - Aug 2018**</span>
-<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
+<span style="width: 85%;">**Research Assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
 
 <span class="cv-year">**May 2017 - Aug 2017**</span>
-<span style="width: 85%;">**Research assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
+<span style="width: 85%;">**Research Assistant for Prof. Shrikanth S. Narayanan**, _Ming Hsieh Department of Electrical Engineering, University of Southern California_</span>
 
 <span class="cv-year">**Sep 2014 - Aug 2015**</span>
-<span style="width: 85%;">**Research assistant for Prof. Eunjin Oh**, _Department of English Language and Literature, Ewha Womans University_</span>  
+<span style="width: 85%;">**Research Assistant for Prof. Eunjin Oh**, _Department of English Language and Literature, Ewha Womans University_</span>
 <br><br>
 
 ### TEACHING EXPERIENCE
@@ -53,7 +53,7 @@ title: Miran Oh | CV
 <span style="width: 85%;">Phonology (LIN 301), Instructor: Prof. Michael Becker, _Stony Brook Univerity_</span>
 
 <span class="cv-year">**Fall 2015**</span>
-<span style="width: 85%;">Phonetics (LIN 201), Instructor: Prof. Mary Hoffman, _Stony Brook University_</span>
+<span style="width: 85%;">Phonetics (LIN 201), Instructor: Prof. Marie Huffman, _Stony Brook University_</span>
 
 #### Student Assistant
 <span class="cv-year">**2013 – 2014**</span>
@@ -68,8 +68,16 @@ title: Miran Oh | CV
 <br>
   
 ### SERVICE
+#### Student Affiliate
+<span class="cv-year">**2017 - 2018**</span>
+<span style="width: 85%;">Korean Studies Institute Graduate Student Affiliate, _University of Southern California_</span>
+
+#### Treasurer
+<span class="cv-year">**2018 - 2019**</span>
+<span style="width: 85%;">Korean Graduate Student Association, _University of Southern California_</span>
+
 #### Event Coordinator
-<span class="cv-year">**2017 - present**</span>
+<span class="cv-year">**2017 - 2018**</span>
 <span style="width: 85%;">Graduate Students in Linguistics, _University of Southern California_</span>
 
 #### Student Volunteer
