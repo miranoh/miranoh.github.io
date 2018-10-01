@@ -10,6 +10,11 @@ permalink:
 ### REFEREED PUBLICATIONS
 #### Journal Articles
 
+<span class="year">**2018**</span>
+<span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data**
+Miran Oh and Yoonjeong Lee
+_Journal of the Acoustical Society of America-Express Letter (JASA-EL)_ (in press) </span>
+
 <span class="year">**2015**</span>
 <span style="width: 85%;">**Lonely negative words in English and Korean** [[PDF](http://miranoh.github.io/uploads/MO_lonelynegatives.pdf)]   
 Miran Oh  
