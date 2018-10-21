@@ -11,7 +11,7 @@ permalink:
 #### Journal Articles
 
 <span class="year">**2018**</span>
-<span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data**
+<span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data** [[PDF](http://miranoh.github.io/uploads/MO_act.pdf)]
 Miran Oh and Yoonjeong Lee
 _Journal of the Acoustical Society of America-Express Letter (JASA-EL), 144_(4), EL290-EL296. </span>
 
