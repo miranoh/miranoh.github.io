@@ -11,8 +11,8 @@ permalink:
 #### Journal Articles
 
 <span class="year">**2018**</span>
-<span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data** [[PDF](http://miranoh.github.io/uploads/MO_act.pdf)]
-Miran Oh and Yoonjeong Lee
+<span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data** [[PDF](http://miranoh.github.io/uploads/MO_act.pdf)]  
+Miran Oh and Yoonjeong Lee  
 _Journal of the Acoustical Society of America-Express Letter (JASA-EL)_</span>
 
 <span class="year">**2015**</span>
@@ -33,15 +33,15 @@ _Language Research_</span>
 #### Conference Proceedings
 
 <span class="year">**2016**</span>
-<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]
-Miran Oh
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]  
+Miran Oh  
 _Proceedings of Speech Prosody 2016_</span><br><br>  
 
 ### CONFERENCE PRESENTATIONS
 
 <span class="year">**2018**</span>
-<span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)]
-Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan
+<span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)]  
+Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan  
 _176th Meeting of the Acoustical Society of America (ASA)_</span>
 
 
