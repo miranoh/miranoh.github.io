@@ -68,6 +68,10 @@ title: Miran Oh | CV
 <br>
   
 ### SERVICE
+#### Student Representative (Speech Communication Technical Committee)
+<span class="cv-year">**2018 - 2020**</span>
+<span style="width: 85%;">ASA Student Council, _Acoustical Society of America_</span>
+
 #### Student Affiliate
 <span class="cv-year">**2017 - 2018**</span>
 <span style="width: 85%;">Korean Studies Institute Graduate Student Affiliate, _University of Southern California_</span>
