@@ -33,14 +33,14 @@ _Language Research_</span>
 #### Conference Proceedings
 
 <span class="year">**2016**</span>
-<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]    
-Miran Oh  
+<span style="width: 85%;">**The influence of power relations on English L1 and L2 speakers’ oral requests** [[PDF](http://miranoh.github.io/uploads/MO_powerrelations.pdf)] [[Poster](http://miranoh.github.io/uploads/MO_powerrelations_Poster.pdf)]
+Miran Oh
 _Proceedings of Speech Prosody 2016_</span><br><br>  
 
 ### CONFERENCE PRESENTATIONS
 
 <span class="year">**2018**</span>
-<span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)] 
+<span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)]
 Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan
 _176th Meeting of the Acoustical Society of America (ASA)_</span>
 
