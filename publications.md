@@ -40,18 +40,18 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 ### CONFERENCE PRESENTATIONS
 
 <span class="year">**2019**</span>
-<span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]  
+<span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]<br/>
 Miran Oh, Dani Byrd  
 _Workshop on Prominence between Cognitive Functions and Linguistic Structures (COFLIS), satellite workshop at Phonetics and Phonology in Europe (PaPE), Bari, Italy_</span>
 
 <span class="year">**2019**</span>
-<span style="width: 85%;">**Vertical larynx actions and larynx-oral timing in ejectives and implosives** [[Abstract](http://miranoh.github.io/uploads/MO_larynxoraltiming.pdf)]  
-Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan  
+<span style="width: 85%;">**Vertical larynx actions and larynx-oral timing in ejectives and implosives** [[Abstract](http://miranoh.github.io/uploads/MO_larynxoraltiming.pdf)]  <br/>
+Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan <br/>
 _3rd Phonetics and Phonology in Europe (PaPE), Lecce, Italy_</span>
 
 <span class="year">**2019**</span>
-<span style="width: 85%;">**The prosody of corrective focus and its domain in Korean** [[Abstract](https://doi.org/10.1121/1.5102001)][[Poster](http://miranoh.github.io/uploads/MO_correctivefocus_Poster.pdf)]  
-Miran Oh, Dani Byrd  
+<span style="width: 85%;">**The prosody of corrective focus and its domain in Korean** [[Abstract](https://doi.org/10.1121/1.5102001)][[Poster](http://miranoh.github.io/uploads/MO_correctivefocus_Poster.pdf)]  <br/>
+Miran Oh, Dani Byrd  <br/>
 _177th Meeting of the Acoustical Society of America (ASA)_</span>
 
 <span class="year">**2018**</span>
