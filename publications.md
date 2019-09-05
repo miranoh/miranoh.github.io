@@ -40,7 +40,7 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 ### CONFERENCE PRESENTATIONS
 
 <span class="year">**2019**</span>
-<span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]
+<span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]  
 Miran Oh, Dani Byrd
 _Workshop on Prominence between Cognitive Functions and Linguistic Structures (COFLIS), satellite workshop at Phonetics and Phonology in Europe (PaPE), Bari, Italy_</span>
 
@@ -53,7 +53,6 @@ _3rd Phonetics and Phonology in Europe (PaPE), Lecce, Italy_</span>
 <span style="width: 85%;">**The prosody of corrective focus and its domain in Korean** [[Abstract](https://doi.org/10.1121/1.5102001)][[Poster](http://miranoh.github.io/uploads/MO_correctivefocus_Poster.pdf)]
 Miran Oh, Dani Byrd
 _177th Meeting of the Acoustical Society of America (ASA)_</span>
-
 
 <span class="year">**2018**</span>
 <span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)]  
