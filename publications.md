@@ -54,6 +54,7 @@ _3rd Phonetics and Phonology in Europe (PaPE), Lecce, Italy_</span>
 Miran Oh, Dani Byrd
 _177th Meeting of the Acoustical Society of America (ASA)_</span>
 
+
 <span class="year">**2018**</span>
 <span style="width: 85%;">**Enriching the understanding of glottalic consonant production: Vertical larynx movement in Hausa ejectives and implosives** [[Abstract](https://doi.org/10.1121/1.5068491)][[Poster](http://miranoh.github.io/uploads/MO_verticallarynx_Poster.pdf)]  
 Miran Oh, Dani Byrd, Louis Goldstein, Shrikanth S. Narayanan  
