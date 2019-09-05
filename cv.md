@@ -14,7 +14,7 @@ title: Miran Oh | CV
 <span style="width: 85%;">**M.A. in Linguistics**, _University of Southern California_, California, USA</span>
 
 <span class="cv-year">**2015 – 2016**</span>
-<span style="width: 85%;">**Ph.D. in Linguistics**, _Stony Brook University_, New York, USA</span>  
+<span style="width: 85%;">**Ph.D. program in Linguistics**, _Stony Brook University_, New York, USA</span>  
 
 <span class="cv-year">**2013 – 2015**</span>
 <span style="width: 85%;">**M.A. in English Language and Literature (Linguistics)**, _Ewha Womans University_, Seoul, Korea</span>  
@@ -28,7 +28,10 @@ title: Miran Oh | CV
 
 ### RESEARCH EXPERIENCE
 
-<span class="cv-year">**May 2018 - Aug 2018**</span>
+<span class="cv-year">**May 2019 - Aug 2019**</span>
+<span style="width: 85%;">**Research Assistant for Profs. Shrikanth S. Narayanan and Dani Bryd**, _Ming Hsieh Department of Electrical Engineering & Department of Linguistics, University of Southern California_</span>
+
+<span class="cv-year">**May 2018 - Dec 2018**</span>
 <span style="width: 85%;">**Research Assistant for Prof. Dani Bryd**, _Department of Linguistics, University of Southern California_</span>
 
 <span class="cv-year">**May 2018 - Aug 2018**</span>
@@ -43,6 +46,12 @@ title: Miran Oh | CV
 
 ### TEACHING EXPERIENCE
 #### Teaching Assistant
+<span class="cv-year">**Fall 2019**</span>
+<span style="width: 85%;">The Process of Change in Science: Human Speech in the Thematic Option Honors Program (CORE 103), Instructor: Prof. Dani Byrd, _University of Southern California_</span>
+
+<span class="cv-year">**Spring 2019**</span>
+<span style="width: 85%;">Language and Society (LING 115), Instructor: Prof. Mary B. Washburn, _University of Southern California_</span>
+
 <span class="cv-year">**Spring 2018**</span>
 <span style="width: 85%;">Human Language and Technology (LING 285), Instructor: Prof. Mary B. Washburn, _University of Southern California_</span>
 
@@ -72,8 +81,16 @@ title: Miran Oh | CV
 <span class="cv-year">**2018 - 2020**</span>
 <span style="width: 85%;">ASA Student Council, _Acoustical Society of America_</span>
 
+#### President
+<span class="cv-year">**2019 - 2020**</span>
+<span style="width: 85%;">Korean Graduate Student Association, _University of Southern California_</span>
+
+#### Colloquium Organizer
+<span class="cv-year">**2019 - 2020**</span>
+<span style="width: 85%;">Graduate Students in Linguistics, _University of Southern California_</span>
+
 #### Student Affiliate
-<span class="cv-year">**2017 - 2018**</span>
+<span class="cv-year">**2017 - 2019**</span>
 <span style="width: 85%;">Korean Studies Institute Graduate Student Affiliate, _University of Southern California_</span>
 
 #### Treasurer
