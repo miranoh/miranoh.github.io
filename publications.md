@@ -39,7 +39,7 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 
 ### CONFERENCE PRESENTATIONS
 
-<span class="year_long">**2019**</span>
+<span class="year_superlong">**2019**</span>
 <span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]<br/>
 Miran Oh, Dani Byrd  
 _Workshop on Prominence between Cognitive Functions and Linguistic Structures (COFLIS), satellite workshop at Phonetics and Phonology in Europe (PaPE), Bari, Italy_</span>
