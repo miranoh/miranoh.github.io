@@ -44,6 +44,11 @@ _Proceedings of Speech Prosody 2016_</span><br><br>
 
 ### CONFERENCE PRESENTATIONS
 
+<span class="year">**2019**</span>
+<span style="width: 85%;">**Oral-veulm actions in the articulation of nasal juncture geminates and singletons** [[Abstract](https://doi.org/10.1121/1.5137434)][[Poster](http://miranoh.github.io/uploads/MO_oralvelum_Poster.pdf)]  <br/>
+Miran Oh, Dani Byrd  <br/>
+_178th Meeting of the Acoustical Society of America (ASA)_</span>
+
 <span class="year_superlong">**2019**</span>
 <span style="width: 85%;">**Focus-induced articulatory prominence on velum actions in nasal geminates** [[Abstract](http://miranoh.github.io/uploads/MO_velumprominence.pdf)][[Poster](http://miranoh.github.io/uploads/MO_velumprominence_Poster.pdf)]<br/>
 Miran Oh, Dani Byrd  
