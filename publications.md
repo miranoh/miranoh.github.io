@@ -11,7 +11,7 @@ permalink:
 #### Journal Articles
 
 <span class="year">**2019**</span>
-<span style="width: 85%;">**Syllable-internal corrective focus in Korean** [[link](https://www.sciencedirect.com/science/article/pii/S0095447018300263)]
+<span style="width: 85%;">**Syllable-internal corrective focus in Korean** [[link](https://www.sciencedirect.com/science/article/pii/S0095447018300263)]  
 Miran Oh and Dani Byrd  
 _Journal of Phonetics_</span>
 
