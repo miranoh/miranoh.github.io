@@ -10,6 +10,11 @@ permalink:
 ### REFEREED PUBLICATIONS
 #### Journal Articles
 
+<span class="year">**2019**</span>
+<span style="width: 85%;">**Syllable-internal corrective focus in Korean** [[link](https://www.sciencedirect.com/science/article/pii/S0095447018300263)]
+Miran Oh and Dani Byrd
+_Journal of Phonetics_</span>
+
 <span class="year">**2018**</span>
 <span style="width: 85%;">**ACT: An Automatic Centroid Tracking tool for analyzing vocal tract actions in real-time magnetic resonance imaging speech production data** [[PDF](http://miranoh.github.io/uploads/MO_act.pdf)]  
 Miran Oh and Yoonjeong Lee  
