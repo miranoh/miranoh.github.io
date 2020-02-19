@@ -1,11 +1,11 @@
 html {
-	background:#B2D2E1;
-  	background: #B2D2E1 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #B2D2E1), color-stop(100%, #434b55)) fixed;
-  	background: #B2D2E1 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
-  	background: #B2D2E1 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 -o-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 linear-gradient(#B2D2E1, #434b55) fixed;
+	background:#666362;
+  	background: #666362 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #B2D2E1), color-stop(100%, #434b55)) fixed;
+  	background: #666362 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
+  	background: #666362 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 -o-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 linear-gradient(#B2D2E1, #434b55) fixed;
 }
 
 body {
