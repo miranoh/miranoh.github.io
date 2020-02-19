@@ -1687,7 +1687,7 @@ input, select, textarea {
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
 		background-color: #FFC0CB;
-		padding: 1em 2.35em 1em 2.35em;
+		padding: 0.7em 2em 0.7em 2em;
 		font-size: 1.1em;
 		max-width: 24em;
 	}
@@ -1697,7 +1697,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #facdd5;  
+			background-color: #facdd5;
 			color: #fff !important;
 		}
 
@@ -1779,7 +1779,7 @@ input, select, textarea {
 		  	background-color: #3f3f3f;
 			  box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
 		}
-		
+
 /* List */
 
 	ul {
