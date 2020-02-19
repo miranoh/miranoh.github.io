@@ -15,13 +15,13 @@ body {
 	font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #555;
   	font-weight: 300;
-	background:#B2D2E1;
-  	background: #B2D2E1 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #B2D2E1), color-stop(100%, #434b55)) fixed;
-  	background: #B2D2E1 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
-  	background: #B2D2E1 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 -o-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
-	background: #B2D2E1 linear-gradient(#B2D2E1, #434b55) fixed;
+	background:#666362;
+  	background: #666362 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #B2D2E1), color-stop(100%, #434b55)) fixed;
+  	background: #666362 -webkit-linear-gradient(#B2D2E1, #434b55) fixed;
+  	background: #666362 -moz-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 -o-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 -ms-linear-gradient(#B2D2E1, #434b55) fixed;
+	background: #666362 linear-gradient(#B2D2E1, #434b55) fixed;
 
 }
 
@@ -100,7 +100,7 @@ header nav li a:active {
 	background: #dbc3d0;
 	color: #fff;
 }
-	
+
 .mainbox {
 	max-width:700px;
 	margin: auto;
@@ -133,7 +133,7 @@ section {
   border-radius: 0 0 8px 8px;
   position: relative;
 }
-  
+
 p {
 	padding: 0;
 	font-size: 14px;
@@ -181,7 +181,7 @@ footer a {
 a {
 	color: #52658F;
     text-decoration: none;
-	
+
 }
 
 span a {
@@ -240,32 +240,32 @@ strong {
 }
 
 .year {
-	float: left; 
-	padding: 0 15px 0 0; 
-	width: 15%; 
+	float: left;
+	padding: 0 15px 0 0;
+	width: 15%;
 	height: 60px;
 }
 
 .year_long {
-	float: left; 
-	padding: 0 15px 0 0; 
-	width: 15%; 
+	float: left;
+	padding: 0 15px 0 0;
+	width: 15%;
 	height: 80px;
 	text-align: left;
 }
 
 .year_superlong {
-	float: left; 
-	padding: 0 15px 0 0; 
-	width: 15%; 
+	float: left;
+	padding: 0 15px 0 0;
+	width: 15%;
 	height: 100px;
 	text-align: left;
 }
 
 .cv-year {
-	float: left; 
-	padding: 0 15px 0 0; 
-	width: 15%; 
+	float: left;
+	padding: 0 15px 0 0;
+	width: 15%;
 	height: 30px;
 	text-align: left;
 }
@@ -295,4 +295,3 @@ header p a#download-cv:active {
 	font-weight: 50px;
 	color:white;
 }
-	
