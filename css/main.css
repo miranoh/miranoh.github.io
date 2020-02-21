@@ -295,27 +295,3 @@ header p a#download-cv:active {
 	font-weight: 50px;
 	color:white;
 }
-
-.myButton {
-	background:linear-gradient(to bottom, #fab1b1 5%, #eb6c6c 100%);
-	background-color:#fab1b1;
-	border-radius:35px;
-	border:1px solid #ffcccc;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:18px;
-	padding:11px 26px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #f03e4d;
-}
-.myButton:hover {
-	background:linear-gradient(to bottom, #eb6c6c 5%, #fab1b1 100%);
-	background-color:#eb6c6c;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
-
